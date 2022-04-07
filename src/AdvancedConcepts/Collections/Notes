@@ -1,0 +1,13 @@
+Notes        Java collection interface
+
+                  Classes  that implements
+
+     ArrayList     |     PriorityQueue  | HashSet
+     LinkedList    |                    |
+
+
+                    Interfaces
+
+     List               Iterable           Set
+                        Collection
+                        Queue
