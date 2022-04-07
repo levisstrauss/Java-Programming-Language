@@ -1,0 +1,7 @@
+
+Notes
+sout for the shortcut of writing System.out.println()
+Source code ==> Java Compiler ==> Byte Code
+To compile the code javac Main.java
+The result of the java code source compilation is inside of the out folder
+Strings are immutable in Java
