@@ -1,0 +1,6 @@
+Binary search tree runs in O(log n) time
+
+compose of root
+leftChild, rightChild and the value
+
+left < node < right otherwise the parent is always > right < left

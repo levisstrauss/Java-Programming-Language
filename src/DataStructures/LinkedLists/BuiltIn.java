@@ -2,7 +2,7 @@ package DataStructures.LinkedLists;
 
 import java.util.LinkedList;
 
-public class BuiltinLinkedList {
+public class BuiltIn {
     public static void main(String[] args) {
         LinkedList list = new LinkedList();
         list.addLast(10);

@@ -1,0 +1,6 @@
+Stacks
+We dont have a look up in Stacks
+push()  add                   O(1)
+pop()   remove
+peek()  return without removing O(1)
+isEmpty()
