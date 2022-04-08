@@ -1,0 +1,21 @@
+
+Array
+- static arrays have a fixed size
+  Good for looking an element by it index
+Dynamic arrays grow by 50-100%
+
+
+LinkedList
+ Big memory
+
+ LookUp            Array     LinkedList
+     by index       O(1)       O(n)
+     by Value       O(n)       O(n)
+ insert
+    Beginning/end   O(n)       O(1)
+    midlle          O(n)       O(n)
+
+ delete
+     beg            O(n)       O(1)
+     middle         O(n)       O(n)
+     end            O(n)       O(n)
